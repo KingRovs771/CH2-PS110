@@ -1,0 +1,8 @@
+{
+    "mysql": {
+      "user": "root",
+      "password": "kitapastibisa",
+      "host": "34.101.177.214",
+      "database": "api_growumkm"
+    }
+}
